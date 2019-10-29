@@ -1,1 +1,1 @@
-global earthquake study
+Fibonocci series type study 
