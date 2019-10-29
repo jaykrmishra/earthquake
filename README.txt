@@ -1,1 +1,1 @@
-Fibonocci series type study 
+Fibonocci nth order sum 
